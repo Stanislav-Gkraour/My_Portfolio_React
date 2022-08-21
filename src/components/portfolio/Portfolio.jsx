@@ -4,6 +4,6 @@ import './Portfolio.css'
 
 export default function Portfolio() {
   return (
-    <div>Portfolio</div>
+    <section id='portfolio'>Portfolio</section>
   )
 }
